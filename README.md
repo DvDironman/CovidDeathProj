@@ -1,2 +1,2 @@
 # CovidDeathProj
-MySQL | SQL | 
+MySQL | SQL | Excel
