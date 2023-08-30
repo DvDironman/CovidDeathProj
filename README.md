@@ -1,0 +1,2 @@
+# CovidDeathProj
+MySQL | SQL
